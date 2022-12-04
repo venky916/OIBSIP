@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="enter_value">Enter Value</string>
+    <string name="pounds">Pounds</string>
+    <string name="textview">TextView</string>
+    <string name="unit_converter">Unit Converter</string>
+</resources>
